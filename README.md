@@ -1,3 +1,4 @@
 # azure-train
 azure
-hi to all 
+hi to all  
+convert to ris to mai
