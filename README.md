@@ -1,4 +1,3 @@
 # azure-train
 azure
-hi to all  
-convert to ris to mai
+this is 3rdd branch as kumar for rebase pr
