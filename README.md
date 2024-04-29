@@ -1,3 +1,3 @@
 # azure-train
 azure
-hi 
+hi to all 
